@@ -1,4 +1,8 @@
 # MyMovies
+MyMovies application is a database for all the movies in one place which aims to help users discover latest movies, search by movie name, display movies details and add/remove favorites to favorites list using themoviedb.org.
+
+
+
 
 To execute this application, Do the following: 
 1- Donload Android studio. 
